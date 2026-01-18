@@ -63,3 +63,28 @@ padding: 12px 20px;
 cursor: pointer;
 font-size: 16px;
 }
+/* Mobile Responsive Fix */
+@media (max-width: 768px) {
+
+  header h1 {
+    font-size: 26px;
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  .products {
+    grid-template-columns: 1fr;
+  }
+
+  body {
+    font-size: 16px;
+  }
+}
+

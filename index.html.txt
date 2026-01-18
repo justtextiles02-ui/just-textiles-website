@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<title>Just Textiles | Handmade Cotton Clothing & Home Decor</title>
+
+<meta name="description" content="Just Textiles is an Indian handmade textile brand offering cotton kimonos, kaftans, robes, quilted jackets, cushion covers and bags. Wholesale and export worldwide.">
+
+<meta name="keywords" content="handmade cotton kimono wholesale, kaftan manufacturer india, textile export india, quilted jacket supplier, cushion cover wholesale">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Just Textiles</h1>
+<p>Handmade Cotton • Ethical • Crafted in India</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#products">Products</a>
+<a href="#wholesale">Wholesale</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+<h2>Authentic Handmade Textiles from India</h2>
+<p>Kimonos • Kaftans • Jackets • Home Furnishings</p>
+</section>
+
+<section id="about">
+<h2>About Just Textiles</h2>
+<p>
+Just Textiles is a handmade textile brand based in India. We create
+premium cotton clothing and home decor products using traditional
+craft techniques.
+</p>
+
+<p>
+We export handmade garments and textiles to boutiques and retailers
+worldwide. Bulk orders, private labeling, and custom designs are available.
+</p>
+</section>
+
+<section id="products">
+<h2>Our Products</h2>
+
+<div class="products">
+<div class="card">
+<img src="images/kimono.jpg">
+<p>Kimono Robes</p>
+</div>
+
+<div class="card">
+<img src="images/kaftan.jpg">
+<p>Cotton Kaftans</p>
+</div>
+
+<div class="card">
+<img src="images/jacket.jpg">
+<p>Quilted Jackets</p>
+</div>
+
+<div class="card">
+<img src="images/cushion.jpg">
+<p>Cushion Covers</p>
+</div>
+
+<div class="card">
+<img src="images/bag.jpg">
+<p>Tote & Toiletry Bags</p>
+</div>
+</div>
+</section>
+
+<section id="wholesale">
+<h2>Wholesale & Bulk Orders</h2>
+<p>Click below to submit your wholesale inquiry.</p>
+
+<a href="PASTE_GOOGLE_FORM_LINK_HERE" target="_blank">
+<button>Wholesale Inquiry Form</button>
+</a>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: justtextiles@gmail.com</p>
+<p>Instagram: @justtextiles</p>
+</section>
+
+<footer>
+<p>© 2026 Just Textiles | Handmade in India</p>
+</footer>
+
+</body>
+</html>
